@@ -1,0 +1,11 @@
+site_name: Econometric Technology Library  # 网站标题
+#
+#  - 首页: index.md
+#  - 计量分析:
+#    - DID:
+#      - CSDID: 计量分析/DID/CSDID.md
+#  - 数据挖掘:
+theme:
+  name: material       # 应用一个更美观的主题
+
+
